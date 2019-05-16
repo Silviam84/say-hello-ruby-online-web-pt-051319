@@ -1,4 +1,3 @@
-def say_hello #(name)
+say_hello #{name}
 
-puts say_hello #{Gabriela}
-
+puts "Hello, Gabriela"
